@@ -1,7 +1,6 @@
 README
 
 NAME:MO'MEN ABU GHARBIEH
-ID:318314853
 
 Exercise 1 - String Pattern Matching Algorithm .
 
